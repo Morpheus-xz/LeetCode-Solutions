@@ -92,16 +92,16 @@ The solutions are organized by topic inside the `src/` directory, with descripti
 LeetCode-Solutions/
 └── src/
     ├── Arrays/
-    │   ├── Leetcode_1_TwoSum.java
+    │   ├── TwoSum_1.java
     │   └── ...
     ├── LinkedList/
-    │   ├── Leetcode_2_AddTwoNumbers.java
+    │   ├── AddTwoNumbers_2.java
     │   └── ...
     ├── Recursion/
-    │   ├── Leetcode_78_Subsets.java
+    │   ├── Subsets_78.java
     │   └── ...
     ├── Strings/
-    │   ├── LeetCode_13_RomanToInteger.java
+    │   ├── RomanToInteger_13.java
     │   └── ...
     └── (other categories like 'tree', 'graph', 'dp', etc.)
 ```

@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Vedansh-Agarwal-2007/LeetCode-Solutions?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
-  <img src="https://img.shields.io/github/last-commit/Vedansh-Agarwal-2007/LeetCode-Solutions?style=for-the-badge&logo=github&label=Last%20Commit" alt="GitHub last commit">
-  <img src="https://img.shields.io/github/commit-activity/w/Vedansh-Agarwal-2007/LeetCode-Solutions?style=for-the-badge&logo=github&label=Commits" alt="GitHub commit activity">
-  <img src="https://img.shields.io/github/repo-size/Vedansh-Agarwal-2007/LeetCode-Solutions?style=for-the-badge&logo=github" alt="GitHub repo size">
+  <img src="https://img.shields.io/github/stars/Morpheus-xz/LeetCode-Solutions?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
+  <img src="https://img.shields.io/github/last-commit/Morpheus-xz/LeetCode-Solutions?style=for-the-badge&logo=github&label=Last%20Commit" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/commit-activity/w/Morpheus-xz/LeetCode-Solutions?style=for-the-badge&logo=github&label=Commits" alt="GitHub commit activity">
+  <img src="https://img.shields.io/github/repo-size/Morpheus-xz/LeetCode-Solutions?style=for-the-badge&logo=github" alt="GitHub repo size">
 </p>
 
 ---
@@ -35,8 +35,8 @@
         <strong>LeetCode Stats</strong>
       </p>
       <p align="center">
-        <a href="https://leetcode.com/u/VedanshAgarwal/">
-          <img src="https://leetcard.jacoblin.cool/VedanshAgarwal?theme=dark&font=Roboto&ext=activity" alt="Vedansh's LeetCode Stats"/>
+        <a href="https://leetcode.com/u/Morpheus-xz/">
+          <img src="https://leetcard.jacoblin.cool/Morpheus-xz?theme=dark&font=Roboto&ext=activity" alt="Morpheus's LeetCode Stats"/>
         </a>
       </p>
     </td>
@@ -46,7 +46,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedansh-Agarwal-2007&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&area=true&line=9e9e9e" alt="Vedansh's Activity Graph"/>
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morpheus-xz&repo=LeetCode-Solutions&theme=tokyonight&hide_border=true&area=true&line=9e9e9e" alt="Morpheus's Activity Graph"/>
         </a>
       </p>
     </td>
